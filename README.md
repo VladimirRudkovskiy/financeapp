@@ -2,7 +2,6 @@
 
 Application for tracking income and expenses. It uses Next.js with [Neon](https://fyi.neon.tech/traversy) to persist data and [Clerk](https://go.clerk.com/BsG2XQJ) for authentication.
 
-[Watch The Tutorial](https://www.youtube.com/watch?v=I6DCo5RwHBE)
 
 [Try Demo](https://traversydemos.dev)
 
